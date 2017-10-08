@@ -1,0 +1,6 @@
+*.log
+config.json
+instance/
+.webassets-cache
+.idea/
+idea/
